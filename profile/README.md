@@ -1,4 +1,8 @@
-## ABOUT
+## Overview
+
+In this library you will find brief versions of the Virto Commerce articles on B2B eCommerce Platforms, including Virto Commerce competitors, the most demanded B2B platform features, .NET terminology, Headless, Composable and other eCommerce solutions.
+
+## Useful Links
 
 ⚛ [Discover Virto Commerce B2B eCommerce Platform](https://virtocommerce.com/b2b-ecommerce-platform)
 
