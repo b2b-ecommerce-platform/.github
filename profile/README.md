@@ -1,4 +1,5 @@
-![Github Profile Repo Social Preview image (1280 × 640 пикс )-3](https://user-images.githubusercontent.com/107489017/175662790-76082f9f-94ae-492c-bb3a-1da48e4deb90.png)
+
+![Github Profile Repo Social Preview image](https://user-images.githubusercontent.com/107489017/175663887-2b597bdb-1e5a-4014-bb24-a4973ab562cd.png)
 
 
 
