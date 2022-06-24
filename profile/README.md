@@ -1,4 +1,5 @@
-![Image](https://user-images.githubusercontent.com/107489017/174785895-c902d86e-6942-40eb-bfa3-c928750e2cb3.png)
+![Github Profile Repo Social Preview image (1280 × 640 пикс )-3](https://user-images.githubusercontent.com/107489017/175662790-76082f9f-94ae-492c-bb3a-1da48e4deb90.png)
+
 
 
 ## Overview
