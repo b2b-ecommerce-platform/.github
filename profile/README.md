@@ -1,6 +1,5 @@
 
-![Github Profile Repo Social Preview image](https://user-images.githubusercontent.com/107489017/175663887-2b597bdb-1e5a-4014-bb24-a4973ab562cd.png)
-
+![Github Profile Repo Social Preview image](https://user-images.githubusercontent.com/107489017/175664211-e83755e6-31d1-4c6a-8876-bc42ed10605e.png)
 
 
 ## Overview
